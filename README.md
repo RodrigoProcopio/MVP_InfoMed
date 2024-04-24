@@ -1,6 +1,7 @@
 # InfoMed - MVP
 
 O InfoMed é um aplicativo mobile desenvolvido para ajudar os usuários a gerenciar suas informações médicas de forma segura e eficiente. Com o InfoMed, os usuários podem acessar rapidamente suas informações médicas básicas, como alergias, condições médicas pré-existentes e medicamentos em uso. Além disso, o aplicativo permite agendar consultas médicas, visualizar o histórico de consultas anteriores e configurar lembretes para a administração correta de medicamentos.
+O InfoMed é baseado neste [MVP Front](https://github.com/RodrigoProcopio/MVP_Prontuario_Medico_Front) e neste [MVP API](https://github.com/RodrigoProcopio/MVP_Prontuario_Medico_API).
 
 ## Funcionalidades Principais:
 - **Gerenciamento de Informações Médicas:** Permite aos usuários adicionar, editar e armazenar suas informações médicas pessoais de forma segura.
