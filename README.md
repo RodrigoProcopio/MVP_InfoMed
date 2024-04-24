@@ -12,5 +12,5 @@ O InfoMed é um aplicativo mobile desenvolvido para ajudar os usuários a gerenc
 ## Estrutura do Repositório:
 * **URL do MVP Canvas no Miro:** [MVP Canvas](https://miro.com/app/board/uXjVKU8RbRI=/?share_link_id=840909777572).
 * **backlog_InfoMed.pdf:** [Backlog do Produto com épicos, features e histórias de usuário. Backlog da Sprint com as atividades detalhadas para a primeira sprint](https://github.com/RodrigoProcopio/MVP_InfoMed/blob/main/backlog_InfoMed.pdf).
-* **wireframes_InfoMed:** [Pasta contendo os protótipos de interface](https://github.com/RodrigoProcopio/MVP_InfoMed/tree/main/wireframes_InfoMed).
+* **wireframes_InfoMed:** [Pasta contendo os protótipos de interface em extensão PNG e FIG](https://github.com/RodrigoProcopio/MVP_InfoMed/tree/main/wireframes_InfoMed).
 * **Vídeo de showcase do projeto:**
